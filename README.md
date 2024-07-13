@@ -30,7 +30,7 @@ Technologies Used:
 
 
 
-- Developed by [DIPAK CHORMALE](https://github.com/Dipak28-it) as an internship task for Skill Craft Technology.
+- Developed by [DIPAK CHORMALE] (https://github.com/Dipak28-it) as an internship task for Skill Craft Technology.
 
 For any suggestions or issues, please feel free to open an [issue](https://github.com/Dipak28-it).
 
