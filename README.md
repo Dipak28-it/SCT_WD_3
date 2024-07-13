@@ -30,8 +30,8 @@ Technologies Used:
 
 
 
-- Developed by [Harsgad Zambre](https://github.com/your-username) as an internship task for Skill Craft Technology.
+- Developed by [DIPAK CHORMALE]() as an internship task for Skill Craft Technology.
 
-For any suggestions or issues, please feel free to open an [issue](https://github.com/your-username/tic-tac-toe/issues).
+For any suggestions or issues, please feel free to open an [issue]().
 
 Enjoy playing Tic-Tac-Toe! 🎮
